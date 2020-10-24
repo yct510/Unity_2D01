@@ -1474,4 +1474,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Appedu/Desktop/ycheng/Unity_2D01/2D_GAME/web
+  playerPath: "C:/Users/Appedu/Desktop/ycheng/Unity_2D01/\u65B0\u589E\u8CC7\u6599\u593E"
